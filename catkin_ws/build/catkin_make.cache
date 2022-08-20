@@ -1,0 +1,2 @@
+robot_sim_ros1_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ros-industrial/rgo/ros1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros-industrial/rgo/ros1/catkin_ws/install -G Unix Makefiles
